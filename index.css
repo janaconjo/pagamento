@@ -1,5 +1,22 @@
 body{
+    background-color:#fafafa;
 
-background-color: aqua;
+}
+
+header{
+ background-color: rgb(215, 231, 250);
+ padding: 30px;
+ 
+
+}
+.container{
+  width: 270px;
+  height: 300px;
+  background-color: rgb(127, 157, 255);
+  padding: 20px;
+  position: relative;
+  top: 150px;
+  left: 500px;
+  border-radius: 20px ;
 
 }
